@@ -1,0 +1,2 @@
+# Language_Diffusion_Models
+A prototype for Language_Diffusion_Models
